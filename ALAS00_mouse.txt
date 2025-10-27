@@ -1,0 +1,5 @@
+hub ALAS00
+shortLabel tracks
+longLabel bulk LS-MPRA tracks for mouse
+genomesFile mouse.txt
+email cepko@genetics.med.harvard.edu

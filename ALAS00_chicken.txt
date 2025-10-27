@@ -1,0 +1,5 @@
+hub ALAS00
+shortLabel tracks
+longLabel bulk LS-MPRA tracks for chicken
+genomesFile chicken.txt
+email cepko@genetics.med.harvard.edu

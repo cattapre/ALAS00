@@ -1,7 +1,7 @@
 ### Published paper
 
 [Alastair J Tulloch, Ryan N Delgado, Rinaldo Catta-Preta, Constance L Cepko (2025). 
-**Massively parallel reporter assay for mapping gene-specific regulatory regions at single nucleotide resolution**. eLife14:RP107565, doi:10.7554/eLife.107565.1](https://doi.org/10.7554/eLife.107565.1)
+**Massively parallel reporter assay for mapping gene-specific regulatory regions at single nucleotide resolution**. eLife 14:RP107565, doi:10.7554/eLife.107565.1](https://doi.org/10.7554/eLife.107565.1)
 
 #
 

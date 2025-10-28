@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2575.7">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #6a00d8; -webkit-text-stroke: #6a00d8; background-color: #e7ebef}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #0a0a0a; -webkit-text-stroke: #0a0a0a; background-color: #e7ebef}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #0a0a0a; -webkit-text-stroke: #0a0a0a; background-color: #e7ebef; min-height: 16.0px}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 14.0px Menlo; color: #131313; -webkit-text-stroke: #131313; background-color: #ffffff}
+    span.s1 {font-kerning: none; color: #0a0a0a; -webkit-text-stroke: 0px #0a0a0a}
+    span.s2 {font-kerning: none}
+    span.s3 {font-kerning: none; color: #6a00d8; -webkit-text-stroke: 0px #6a00d8}
+    span.s4 {font-kerning: none; color: #90330c; -webkit-text-stroke: 0px #90330c}
+    span.s5 {font-kerning: none; color: #175f20; -webkit-text-stroke: 0px #175f20}
+    span.s6 {font-kerning: none; color: #0a0a0a; background-color: #e7ebef; -webkit-text-stroke: 0px #0a0a0a}
+    span.s7 {font-kerning: none; -webkit-text-stroke: 0px #000000}
+    span.s8 {font-kerning: none; color: #175f20; background-color: #e7ebef; -webkit-text-stroke: 0px #175f20}
+    span.s9 {font-kerning: none; color: #6a00d8; background-color: #e7ebef; -webkit-text-stroke: 0px #6a00d8}
+    span.Apple-tab-span {white-space:pre}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;</span><span class="s2">body</span><span class="s1">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">h2</span><span class="s2">&gt;My BigWig Track: Description and Methods&lt;/</span><span class="s3">h2</span><span class="s2">&gt;</span></p>
+<p class="p3"><span class="s2"></span><br></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">h3</span><span class="s2">&gt;Track Description&lt;/</span><span class="s3">h3</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">p</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>This track displays the coverage of aligned sequencing reads (bigWig format) for the LS-MPRA experiment on mouse tissues.<span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>The signal values represent the normalized read depth at each genomic position.</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;/</span><span class="s3">p</span><span class="s2">&gt;</span></p>
+<p class="p3"><span class="s2"></span><br></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">h3</span><span class="s2">&gt;Display Conventions and Configuration&lt;/</span><span class="s3">h3</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">p</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>The track is displayed in &lt;</span><span class="s3">b</span><span class="s2">&gt;full&lt;/</span><span class="s3">b</span><span class="s2">&gt; mode by default. The y-axis ranges from </span><span class="s4">0</span><span class="s2"> to </span><span class="s4">100</span><span class="s2">, where higher peaks (darker color) indicate greater coverage. The color is set to dark blue for consistency with other signal tracks.</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;/</span><span class="s3">p</span><span class="s2">&gt;</span></p>
+<p class="p3"><span class="s2"></span><br></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">h3</span><span class="s2">&gt;Methods&lt;/</span><span class="s3">h3</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">p</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>Raw sequencing data were aligned to the mm10 reference genome using the BWA aligner.<span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>The resulting BAM file was converted to a bigWig file using the deepTools suite, removing duplicate reads. Normalization was performed using the RPKM method.</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;/</span><span class="s3">p</span><span class="s2">&gt;</span></p>
+<p class="p3"><span class="s2"></span><br></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">h3</span><span class="s2">&gt;Credits&lt;/</span><span class="s3">h3</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">p</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>Data generated by Dr. Alastair Tulloch at Harvard Medical School’s Cepko Lab.</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>&lt;</span><span class="s3">br</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">        </span>Contact: &lt;</span><span class="s3">a</span><span class="s2"> href=</span><span class="s5">"mailto:cepko@genetics.med.harvard.edu"</span><span class="s2">&gt;cepko@genetics.med.harvard.edu&lt;/</span><span class="s3">a</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;/</span><span class="s3">p</span><span class="s2">&gt;</span></p>
+<p class="p3"><span class="s2"></span><br></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">h3</span><span class="s2">&gt;References&lt;/</span><span class="s3">h3</span><span class="s2">&gt;</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;</span><span class="s3">p</span><span class="s2">&gt;</span></p>
+<p class="p4"><span class="s6"><span class="Apple-converted-space">        </span></span><span class="s7"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span></span><span class="s2">Alastair J Tulloch, Ryan N Delgado, Rinaldo Catta-Preta, Constance L Cepko (2025). Massively parallel reporter assay for mapping gene-specific regulatory regions at single nucleotide resolution</span><span class="s8">."</span><span class="s6"> &lt;</span><span class="s9">i</span><span class="s6">&gt;eLife&lt;/</span><span class="s9">i</span><span class="s6">&gt; </span><span class="s7">14:RP107565</span><span class="s6">.</span></p>
+<p class="p2"><span class="s2"><span class="Apple-converted-space">    </span>&lt;/</span><span class="s3">p</span><span class="s2">&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/</span><span class="s2">body</span><span class="s1">&gt;</span></p>
+</body>
+</html>

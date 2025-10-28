@@ -1,4 +1,5 @@
 hub ALAS00
+descriptionUrl mm10/mouse.html
 shortLabel tracks
 longLabel bulk LS-MPRA tracks for mouse
 genomesFile mouse.txt

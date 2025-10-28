@@ -7,6 +7,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 48
 windowingFunction mean
 color 255,0,255
@@ -21,6 +22,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 49
 windowingFunction mean
 color 255,0,255
@@ -35,6 +37,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 50
 windowingFunction mean
 color 255,0,255
@@ -49,6 +52,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 51
 windowingFunction mean
 color 255,0,255
@@ -63,6 +67,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 52
 windowingFunction mean
 color 0,255,255
@@ -77,6 +82,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 53
 windowingFunction mean
 color 0,255,255
@@ -91,6 +97,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 54
 windowingFunction mean
 color 0,255,255
@@ -105,6 +112,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 55
 windowingFunction mean
 color 0,255,255
@@ -119,6 +127,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 56
 windowingFunction mean
 color 0,0,0
@@ -133,6 +142,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 57
 windowingFunction mean
 color 0,0,0
@@ -147,6 +157,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 58
 windowingFunction mean
 color 0,0,0
@@ -161,6 +172,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 59
 windowingFunction mean
 color 0,0,0
@@ -175,6 +187,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html chicken.html
 priority 60
 windowingFunction mean
 color 128,0,0

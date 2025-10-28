@@ -7,6 +7,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 1
 windowingFunction mean
 color 0,0,0
@@ -21,6 +22,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 2
 windowingFunction mean
 color 0,0,0
@@ -35,6 +37,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 3
 windowingFunction mean
 color 0,0,0
@@ -49,6 +52,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 4
 windowingFunction mean
 color 0,0,0
@@ -63,6 +67,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 5
 windowingFunction mean
 color 0,0,0
@@ -77,6 +82,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 6
 windowingFunction mean
 color 0,0,0
@@ -91,6 +97,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 7
 windowingFunction mean
 color 128,0,0
@@ -105,6 +112,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 8
 windowingFunction mean
 color 0,0,0
@@ -119,6 +127,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 9
 windowingFunction mean
 color 0,0,0
@@ -133,6 +142,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 10
 windowingFunction mean
 color 0,0,0
@@ -147,6 +157,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 11
 windowingFunction mean
 color 0,0,0
@@ -161,6 +172,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 12
 windowingFunction mean
 color 0,0,0
@@ -175,6 +187,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 13
 windowingFunction mean
 color 0,0,0
@@ -189,6 +202,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 14
 windowingFunction mean
 color 128,0,0
@@ -203,6 +217,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 15
 windowingFunction mean
 color 0,0,0
@@ -217,6 +232,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 16
 windowingFunction mean
 color 0,0,0
@@ -231,6 +247,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 17
 windowingFunction mean
 color 0,0,0
@@ -245,6 +262,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 18
 windowingFunction mean
 color 0,0,0
@@ -259,6 +277,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 19
 windowingFunction mean
 color 0,0,0
@@ -273,6 +292,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 20
 windowingFunction mean
 color 0,0,0
@@ -287,6 +307,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 21
 windowingFunction mean
 color 128,0,0
@@ -301,6 +322,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 22
 windowingFunction mean
 color 0,0,0
@@ -315,6 +337,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 23
 windowingFunction mean
 color 0,0,0
@@ -329,6 +352,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 24
 windowingFunction mean
 color 0,0,0
@@ -343,6 +367,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 25
 windowingFunction mean
 color 0,0,0
@@ -357,6 +382,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 26
 windowingFunction mean
 color 0,0,0
@@ -371,6 +397,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 27
 windowingFunction mean
 color 0,0,0
@@ -385,6 +412,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 28
 windowingFunction mean
 color 128,0,0
@@ -399,6 +427,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 29
 windowingFunction mean
 color 0,0,0
@@ -413,6 +442,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 30
 windowingFunction mean
 color 0,0,0
@@ -427,6 +457,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 31
 windowingFunction mean
 color 0,0,0
@@ -441,6 +472,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 32
 windowingFunction mean
 color 0,0,0
@@ -455,6 +487,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 33
 windowingFunction mean
 color 0,0,0
@@ -469,6 +502,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 34
 windowingFunction mean
 color 0,0,0
@@ -483,6 +517,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 35
 windowingFunction mean
 color 0,0,0
@@ -497,6 +532,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 36
 windowingFunction mean
 color 0,0,0
@@ -511,6 +547,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 37
 windowingFunction mean
 color 0,0,0
@@ -525,6 +562,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 38
 windowingFunction mean
 color 0,0,0
@@ -539,6 +577,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 39
 windowingFunction mean
 color 0,0,0
@@ -553,6 +592,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 40
 windowingFunction mean
 color 0,0,0
@@ -567,6 +607,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 41
 windowingFunction mean
 color 128,0,0
@@ -581,6 +622,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 42
 windowingFunction mean
 color 0,0,0
@@ -595,6 +637,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 43
 windowingFunction mean
 color 0,0,0
@@ -609,6 +652,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 44
 windowingFunction mean
 color 0,0,0
@@ -623,6 +667,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 45
 windowingFunction mean
 color 128,0,0
@@ -637,6 +682,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 46
 windowingFunction mean
 color 128,0,128
@@ -651,6 +697,7 @@ visibility full
 maxHeightPixels 50
 autoScale off
 smoothingWindow 2
+html mouse.html
 priority 47
 windowingFunction mean
 color 128,0,128

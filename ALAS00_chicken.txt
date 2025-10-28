@@ -1,4 +1,5 @@
 hub ALAS00
+descriptionUrl galGal6/chicken.html
 shortLabel tracks
 longLabel bulk LS-MPRA tracks for chicken
 genomesFile chicken.txt

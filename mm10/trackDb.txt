@@ -5,7 +5,7 @@ longLabel Cabp5-ExVivoA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 1
@@ -20,7 +20,7 @@ longLabel Cabp5-ExVivoB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 2
@@ -35,7 +35,7 @@ longLabel Cabp5-ExVivoC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 3
@@ -50,7 +50,7 @@ longLabel Cabp5-InVivo1-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 4
@@ -65,7 +65,7 @@ longLabel Cabp5-InVivo2-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 5
@@ -80,7 +80,7 @@ longLabel Cabp5-InVivo3-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 6
@@ -95,7 +95,7 @@ longLabel Cabp5_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 7
@@ -110,7 +110,7 @@ longLabel Grm6-ExVivoA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 8
@@ -125,7 +125,7 @@ longLabel Grm6-ExVivoB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 9
@@ -140,7 +140,7 @@ longLabel Grm6-ExVivoC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 10
@@ -155,7 +155,7 @@ longLabel Grm6-InVivo1-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 11
@@ -170,7 +170,7 @@ longLabel Grm6-InVivo2-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 12
@@ -185,7 +185,7 @@ longLabel Grm6-InVivo3-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 13
@@ -200,7 +200,7 @@ longLabel Grm6_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 14
@@ -215,7 +215,7 @@ longLabel Rho-ExVivoA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 15
@@ -230,7 +230,7 @@ longLabel Rho-ExVivoB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 16
@@ -245,7 +245,7 @@ longLabel Rho-ExVivoC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 17
@@ -260,7 +260,7 @@ longLabel Rho-InVivo1-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 18
@@ -275,7 +275,7 @@ longLabel Rho-InVivo2-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 19
@@ -290,7 +290,7 @@ longLabel Rho-InVivo3-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 20
@@ -305,7 +305,7 @@ longLabel Rho_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 21
@@ -320,7 +320,7 @@ longLabel Vsx2-ExVivoA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 22
@@ -335,7 +335,7 @@ longLabel Vsx2-ExVivoB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 23
@@ -350,7 +350,7 @@ longLabel Vsx2-ExVivoC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 24
@@ -365,7 +365,7 @@ longLabel Vsx2-InVivo1-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 25
@@ -380,7 +380,7 @@ longLabel Vsx2-InVivo2-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 26
@@ -395,7 +395,7 @@ longLabel Vsx2-InVivo3-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 27
@@ -410,7 +410,7 @@ longLabel Vsx2_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 28
@@ -425,7 +425,7 @@ longLabel Olig2_0hrA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 29
@@ -440,7 +440,7 @@ longLabel Olig2_0hrB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 30
@@ -455,7 +455,7 @@ longLabel Olig2_0hrC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 31
@@ -470,7 +470,7 @@ longLabel Olig2_4hrA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 32
@@ -485,7 +485,7 @@ longLabel Olig2_4hrB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 33
@@ -500,7 +500,7 @@ longLabel Olig2_4hrC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 34
@@ -515,7 +515,7 @@ longLabel Olig2_12hrA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 35
@@ -530,7 +530,7 @@ longLabel Olig2_12hrB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 36
@@ -545,7 +545,7 @@ longLabel Olig2_12hrC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 37
@@ -560,7 +560,7 @@ longLabel Olig2_28hrA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 38
@@ -575,7 +575,7 @@ longLabel Olig2_28hrB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 39
@@ -590,7 +590,7 @@ longLabel Olig2_28hrC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 40
@@ -605,7 +605,7 @@ longLabel Olig2_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 41
@@ -620,7 +620,7 @@ longLabel Neurog2-bc101-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 42
@@ -635,7 +635,7 @@ longLabel Neurog2-bc202-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 43
@@ -650,7 +650,7 @@ longLabel Neurog2-bc303-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 44
@@ -665,7 +665,7 @@ longLabel Ngn2_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 45
@@ -680,7 +680,7 @@ longLabel mE14_scATAC_retina.normalized.primary.coverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 46
@@ -695,7 +695,7 @@ longLabel mP8_scATAC_retina.normalized.primary.coverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 47

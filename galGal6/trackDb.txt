@@ -1,5 +1,5 @@
 track bigwig_1
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187710
+bigDataUrl https://ndownloader.figshare.com/files/59187710
 shortLabel OLIG2-E2-spinalcord-1
 longLabel cOLIG2-E2_SC1_ratio.bw
 type bigWig
@@ -14,7 +14,7 @@ color 255,0,255
 viewLimits 0:100
 
 track bigwig_2
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187725
+bigDataUrl https://ndownloader.figshare.com/files/59187725
 shortLabel OLIG2-E2-spinalcord-2
 longLabel cOLIG2-E2_SC2-ratio.bw
 type bigWig
@@ -29,7 +29,7 @@ color 255,0,255
 viewLimits 0:100
 
 track bigwig_3
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187731
+bigDataUrl https://ndownloader.figshare.com/files/59187731
 shortLabel OLIG2-E2-spinalcord-3
 longLabel cOLIG2-E2_SC3-ratio.bw
 type bigWig
@@ -44,7 +44,7 @@ color 255,0,255
 viewLimits 0:100
 
 track bigwig_4
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187698
+bigDataUrl https://ndownloader.figshare.com/files/59187698
 shortLabel OLIG2-E2-spinalcord-4
 longLabel cOLIG2-E2_SC4-ratio.bw
 type bigWig
@@ -59,7 +59,7 @@ color 255,0,255
 viewLimits 0:100
 
 track bigwig_5
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187695
+bigDataUrl https://ndownloader.figshare.com/files/59187695
 shortLabel OLIG2-E4-spinalcord-1
 longLabel cOLIG2-E4_SC1-ratio.bw
 type bigWig
@@ -74,7 +74,7 @@ color 0,255,255
 viewLimits 0:100
 
 track bigwig_6
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187716
+bigDataUrl https://ndownloader.figshare.com/files/59187716
 shortLabel OLIG2-E4-spinalcord-2
 longLabel cOLIG2-E4_SC2-ratio.bw
 type bigWig
@@ -89,7 +89,7 @@ color 0,255,255
 viewLimits 0:100
 
 track bigwig_7
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187713
+bigDataUrl https://ndownloader.figshare.com/files/59187713
 shortLabel OLIG2-E4-spinalcord-3
 longLabel cOLIG2-E4_SC3-ratio.bw
 type bigWig
@@ -104,7 +104,7 @@ color 0,255,255
 viewLimits 0:100
 
 track bigwig_8
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187704
+bigDataUrl https://ndownloader.figshare.com/files/59187704
 shortLabel OLIG2-E4-spinalcord-4
 longLabel cOLIG2-E4_SC4-ratio.bw
 type bigWig
@@ -119,7 +119,7 @@ color 0,255,255
 viewLimits 0:100
 
 track bigwig_9
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187701
+bigDataUrl https://ndownloader.figshare.com/files/59187701
 shortLabel OLIG2-E5-retina-1
 longLabel OLIG2_bc101-ratio.bw
 type bigWig
@@ -134,7 +134,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_10
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187707
+bigDataUrl https://ndownloader.figshare.com/files/59187707
 shortLabel OLIG2-E5-retina-2
 longLabel OLIG2_bc202-ratio.bw
 type bigWig
@@ -149,7 +149,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_11
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187689
+bigDataUrl https://ndownloader.figshare.com/files/59187689
 shortLabel OLIG2-E5-retina-3
 longLabel OLIG2_bc303-ratio.bw
 type bigWig
@@ -164,7 +164,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_12
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187692
+bigDataUrl https://ndownloader.figshare.com/files/59187692
 shortLabel OLIG2-E5-retina-4
 longLabel OLIG2_bc404-ratio.bw
 type bigWig
@@ -179,7 +179,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_13
-bigDataUrl https://figshare.com/articles/dataset/LS-MPRA_d-MPRA_genome_track_files/30491054?file=59187686
+bigDataUrl https://ndownloader.figshare.com/files/59187686
 shortLabel OLIG2_LibraryCoverage
 longLabel cOLIG2_LibraryCoverage.bw
 type bigWig

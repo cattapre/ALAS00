@@ -1,11 +1,11 @@
 track bigwig_1
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091339
+bigDataUrl https://ndownloader.figshare.com/files/59187719
 shortLabel Cabp5-ExV-A
 longLabel Cabp5-ExVivoA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 1
@@ -14,13 +14,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_2
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091342
+bigDataUrl https://ndownloader.figshare.com/files/59187737
 shortLabel Cabp5-ExV-B
 longLabel Cabp5-ExVivoB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 2
@@ -29,13 +29,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_3
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091344
+bigDataUrl https://ndownloader.figshare.com/files/59187743
 shortLabel Cabp5-ExV-C
 longLabel Cabp5-ExVivoC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 3
@@ -44,13 +44,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_4
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091340
+bigDataUrl https://ndownloader.figshare.com/files/59187734
 shortLabel Cabp5-InV-1
 longLabel Cabp5-InVivo1-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 4
@@ -59,13 +59,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_5
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091341
+bigDataUrl https://ndownloader.figshare.com/files/59187728
 shortLabel Cabp5-InV-2
 longLabel Cabp5-InVivo2-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 5
@@ -74,13 +74,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_6
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091343
+bigDataUrl https://ndownloader.figshare.com/files/59187722
 shortLabel Cabp5-InV-3
 longLabel Cabp5-InVivo3-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 6
@@ -89,13 +89,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_7
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091384
+bigDataUrl https://ndownloader.figshare.com/files/59187740
 shortLabel Cabp5_LibraryCoverage
 longLabel Cabp5_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 7
@@ -104,13 +104,13 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_8
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091347
+bigDataUrl https://ndownloader.figshare.com/files/59187611
 shortLabel Grm6-ExV-A
 longLabel Grm6-ExVivoA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 8
@@ -119,13 +119,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_9
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091350
+bigDataUrl https://ndownloader.figshare.com/files/59187608
 shortLabel Grm6-ExV-B
 longLabel Grm6-ExVivoB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 9
@@ -134,13 +134,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_10
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091349
+bigDataUrl https://ndownloader.figshare.com/files/59187617
 shortLabel Grm6-ExV-C
 longLabel Grm6-ExVivoC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 10
@@ -149,13 +149,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_11
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091346
+bigDataUrl https://ndownloader.figshare.com/files/59187623
 shortLabel Grm6-InV-1
 longLabel Grm6-InVivo1-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 11
@@ -164,13 +164,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_12
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091348
+bigDataUrl https://ndownloader.figshare.com/files/59187629
 shortLabel Grm6-InV-2
 longLabel Grm6-InVivo2-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 12
@@ -179,13 +179,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_13
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091345
+bigDataUrl https://ndownloader.figshare.com/files/59187626
 shortLabel Grm6-InV-3
 longLabel Grm6-InVivo3-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 13
@@ -194,13 +194,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_14
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091381
+bigDataUrl https://ndownloader.figshare.com/files/59187620
 shortLabel Grm6_LibraryCoverage
 longLabel Grm6_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 14
@@ -209,13 +209,13 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_15
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091336
+bigDataUrl https://ndownloader.figshare.com/files/59187650
 shortLabel Rho-ExV-A
 longLabel Rho-ExVivoA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 15
@@ -224,13 +224,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_16
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091337
+bigDataUrl https://ndownloader.figshare.com/files/59187656
 shortLabel Rho-ExV-B
 longLabel Rho-ExVivoB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 16
@@ -239,13 +239,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_17
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091335
+bigDataUrl https://ndownloader.figshare.com/files/59187659
 shortLabel Rho-ExV-C
 longLabel Rho-ExVivoC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 17
@@ -254,13 +254,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_18
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091334
+bigDataUrl https://ndownloader.figshare.com/files/59187662
 shortLabel Rho-InV-1
 longLabel Rho-InVivo1-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 18
@@ -269,13 +269,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_19
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091338
+bigDataUrl https://ndownloader.figshare.com/files/59187647
 shortLabel Rho-InV-2
 longLabel Rho-InVivo2-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 19
@@ -284,13 +284,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_20
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091333
+bigDataUrl https://ndownloader.figshare.com/files/59187644
 shortLabel Rho-InV-3
 longLabel Rho-InVivo3-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 20
@@ -299,13 +299,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_21
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091383
+bigDataUrl https://ndownloader.figshare.com/files/59187653
 shortLabel Rho_LibraryCoverage
 longLabel Rho_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 21
@@ -314,13 +314,13 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_22
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091352
+bigDataUrl https://ndownloader.figshare.com/files/59187674
 shortLabel Vsx2-ExV-A
 longLabel Vsx2-ExVivoA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 22
@@ -329,13 +329,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_23
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091356
+bigDataUrl https://ndownloader.figshare.com/files/59187668
 shortLabel Vsx2-ExV-B
 longLabel Vsx2-ExVivoB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 23
@@ -344,13 +344,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_24
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091354
+bigDataUrl https://ndownloader.figshare.com/files/59187671
 shortLabel Vsx2-ExV-C
 longLabel Vsx2-ExVivoC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 24
@@ -359,13 +359,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_25
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091355
+bigDataUrl https://ndownloader.figshare.com/files/59187665
 shortLabel Vsx2-InV-1
 longLabel Vsx2-InVivo1-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 25
@@ -374,13 +374,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_26
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091353
+bigDataUrl https://ndownloader.figshare.com/files/59187683
 shortLabel Vsx2-InV-2
 longLabel Vsx2-InVivo2-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 26
@@ -389,13 +389,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_27
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091351
+bigDataUrl https://ndownloader.figshare.com/files/59187680
 shortLabel Vsx2-InV-3
 longLabel Vsx2-InVivo3-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 27
@@ -404,13 +404,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_28
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091382
+bigDataUrl https://ndownloader.figshare.com/files/59187677
 shortLabel Vsx2_LibraryCoverage
 longLabel Vsx2_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 28
@@ -419,13 +419,13 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_29
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091371
+bigDataUrl https://ndownloader.figshare.com/files/59187764
 shortLabel Olig2-Control-A
 longLabel Olig2_0hrA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 29
@@ -434,13 +434,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_30
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091380
+bigDataUrl https://ndownloader.figshare.com/files/59187761
 shortLabel Olig2-Control-B
 longLabel Olig2_0hrB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 30
@@ -449,13 +449,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_31
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091379
+bigDataUrl https://ndownloader.figshare.com/files/59187758
 shortLabel Olig2-Control-C
 longLabel Olig2_0hrC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 31
@@ -464,13 +464,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_32
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091372
+bigDataUrl https://ndownloader.figshare.com/files/59187746
 shortLabel Olig2-4hr-perturb-A
 longLabel Olig2_4hrA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 32
@@ -479,13 +479,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_33
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091375
+bigDataUrl https://ndownloader.figshare.com/files/59187773
 shortLabel Olig2-4hr-perturb-B
 longLabel Olig2_4hrB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 33
@@ -494,13 +494,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_34
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091378
+bigDataUrl https://ndownloader.figshare.com/files/59187776
 shortLabel Olig2-4hr-perturb-C
 longLabel Olig2_4hrC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 34
@@ -509,13 +509,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_35
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091369
+bigDataUrl https://ndownloader.figshare.com/files/59187767
 shortLabel Olig2-12hr-perturb-A
 longLabel Olig2_12hrA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 35
@@ -524,13 +524,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_36
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091373
+bigDataUrl https://ndownloader.figshare.com/files/59187755
 shortLabel Olig2-12hr-perturb-B
 longLabel Olig2_12hrB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 36
@@ -539,13 +539,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_37
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091370
+bigDataUrl https://ndownloader.figshare.com/files/59187752
 shortLabel Olig2-12hr-perturb-C
 longLabel Olig2_12hrC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 37
@@ -554,13 +554,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_38
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091377
+bigDataUrl https://ndownloader.figshare.com/files/59187749
 shortLabel Olig2-28hr-perturb-A
 longLabel Olig2_28hrA-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 38
@@ -569,13 +569,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_39
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091376
+bigDataUrl https://ndownloader.figshare.com/files/59187785
 shortLabel Olig2-28hr-perturb-B
 longLabel Olig2_28hrB-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 39
@@ -584,13 +584,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_40
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091374
+bigDataUrl https://ndownloader.figshare.com/files/59187782
 shortLabel Olig2-28hr-perturb-C
 longLabel Olig2_28hrC-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 40
@@ -599,13 +599,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_41
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/12547685
+bigDataUrl https://ndownloader.figshare.com/files/59188370
 shortLabel Olig2_LibraryCoverage
 longLabel Olig2_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 41
@@ -614,13 +614,13 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_42
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091330
+bigDataUrl https://ndownloader.figshare.com/files/59187635
 shortLabel Ngn2-A
 longLabel Neurog2-bc101-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 42
@@ -629,13 +629,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_43
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091331
+bigDataUrl https://ndownloader.figshare.com/files/59187632
 shortLabel Ngn2-B
 longLabel Neurog2-bc202-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 43
@@ -644,13 +644,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_44
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091332
+bigDataUrl https://ndownloader.figshare.com/files/59187641
 shortLabel Ngn2-C
 longLabel Neurog2-bc303-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 44
@@ -659,13 +659,13 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_45
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091385
+bigDataUrl https://ndownloader.figshare.com/files/59187638
 shortLabel Ngn2_LibraryCoverage
 longLabel Ngn2_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 45
@@ -674,13 +674,13 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_46
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091387
+bigDataUrl https://ndownloader.figshare.com/files/59187791
 shortLabel E14_scATACseq-retina
 longLabel mE14_scATAC_retina.normalized.primary.coverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 46
@@ -689,13 +689,13 @@ color 128,0,128
 viewLimits 0:100
 
 track bigwig_47
-bigDataUrl https://dataverse.harvard.edu/api/access/datafile/13091388
+bigDataUrl https://ndownloader.figshare.com/files/59187794
 shortLabel P8_scATACseq-retina
 longLabel mP8_scATAC_retina.normalized.primary.coverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html mouse.html
 priority 47

@@ -5,7 +5,7 @@ longLabel cOLIG2-E2_SC1_ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 48
@@ -20,7 +20,7 @@ longLabel cOLIG2-E2_SC2-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 49
@@ -35,7 +35,7 @@ longLabel cOLIG2-E2_SC3-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 50
@@ -50,7 +50,7 @@ longLabel cOLIG2-E2_SC4-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 51
@@ -65,7 +65,7 @@ longLabel cOLIG2-E4_SC1-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 52
@@ -80,7 +80,7 @@ longLabel cOLIG2-E4_SC2-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 53
@@ -95,7 +95,7 @@ longLabel cOLIG2-E4_SC3-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 54
@@ -110,7 +110,7 @@ longLabel cOLIG2-E4_SC4-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 55
@@ -125,7 +125,7 @@ longLabel OLIG2_bc101-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 56
@@ -140,7 +140,7 @@ longLabel OLIG2_bc202-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 57
@@ -155,7 +155,7 @@ longLabel OLIG2_bc303-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 58
@@ -170,7 +170,7 @@ longLabel OLIG2_bc404-ratio.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 59
@@ -185,7 +185,7 @@ longLabel cOLIG2_LibraryCoverage.bw
 type bigWig
 visibility full
 maxHeightPixels 50
-autoScale off
+autoScale on
 smoothingWindow 2
 html chicken.html
 priority 60

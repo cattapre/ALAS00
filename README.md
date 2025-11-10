@@ -12,7 +12,7 @@
 
 | Description                                   | Genome  | Address in the [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgHubConnect) URL Track Hub page   |
 | :---                                          | :---:   | :---        |
-| Mouse tracks                             | mm10    | [*Click here to access the track hub*](http://genome.ucsc.edu/cgi-bin/hgTracks?clearHubSession=1&db=mm10&hubUrl=https://raw.githubusercontent.com/cattapre/ALAS00/main/ALAS00_mouse.txt&position=chr6:115663670-116062520)  |
+| Mouse tracks                             | mm10    | [*Click here to access the track hub*](http://genome.ucsc.edu/cgi-bin/hgTracks?clearHubSession=1&db=mm10&hubUrl=https://raw.githubusercontent.com/cattapre/ALAS00/main/ALAS00_mouse.txt&position=chr6:115663670-116062520)  | (right-click to open in new tab)
 | Chicken tracks                             | galGal6    | [*Click here to access the track hub*](http://genome.ucsc.edu/cgi-bin/hgTracks?clearHubSession=1&db=galGal6&hubUrl=https://raw.githubusercontent.com/cattapre/ALAS00/main/ALAS00_chicken.txt&position=chr1:106286922-106720465)  |
 
 

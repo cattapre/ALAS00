@@ -7,7 +7,6 @@
 
 
 ### UCSC Genome Browser Track Hubs
-(right-click to open in new tab)
 
 
 

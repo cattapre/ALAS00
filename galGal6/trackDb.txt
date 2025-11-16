@@ -1,5 +1,5 @@
 track bigwig_1
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/c7kxqpbjfutnf4k0pkgnb/cOLIG2-E2_SC1_ratio.bw?rlkey=lpsc919y1o9jot8cd5nbmgttb&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/cOLIG2-E2_SC1_ratio.bw
 shortLabel OLIG2-E2-spinalcord-1
 longLabel cOLIG2-E2_SC1_ratio.bw
 type bigWig
@@ -14,7 +14,7 @@ color 255,0,255
 viewLimits 0:100
 
 track bigwig_2
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/18m4uv52vrioivivxrb00/cOLIG2-E2_SC2-ratio.bw?rlkey=la0rsstrcdxt6wu545d49fsc4&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/cOLIG2-E2_SC2-ratio.bw
 shortLabel OLIG2-E2-spinalcord-2
 longLabel cOLIG2-E2_SC2-ratio.bw
 type bigWig
@@ -29,7 +29,7 @@ color 255,0,255
 viewLimits 0:100
 
 track bigwig_3
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/4c3uc4zy93yzphwz63idh/cOLIG2-E2_SC3-ratio.bw?rlkey=ugl85oey29omzle44qgsnpzpc&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/cOLIG2-E2_SC3-ratio.bw
 shortLabel OLIG2-E2-spinalcord-3
 longLabel cOLIG2-E2_SC3-ratio.bw
 type bigWig
@@ -44,7 +44,7 @@ color 255,0,255
 viewLimits 0:100
 
 track bigwig_4
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/7epnqy03zm1j1n692qlo2/cOLIG2-E2_SC4-ratio.bw?rlkey=ksr3ehstiubcgfqfagd6u1ual&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/cOLIG2-E2_SC4-ratio.bw
 shortLabel OLIG2-E2-spinalcord-4
 longLabel cOLIG2-E2_SC4-ratio.bw
 type bigWig
@@ -59,7 +59,7 @@ color 255,0,255
 viewLimits 0:100
 
 track bigwig_5
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/uo84psejvx46mpn3vico5/cOLIG2-E4_SC1-ratio.bw?rlkey=7lxsu6j5kjuvv4splhvqvfqxv&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/cOLIG2-E4_SC1-ratio.bw
 shortLabel OLIG2-E4-spinalcord-1
 longLabel cOLIG2-E4_SC1-ratio.bw
 type bigWig
@@ -74,7 +74,7 @@ color 0,255,255
 viewLimits 0:100
 
 track bigwig_6
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/cid0ca8n2fkw2q6rn5szs/cOLIG2-E4_SC2-ratio.bw?rlkey=nhaissz5m5t9fft8y0zuez7r8&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/cOLIG2-E4_SC2-ratio.bw
 shortLabel OLIG2-E4-spinalcord-2
 longLabel cOLIG2-E4_SC2-ratio.bw
 type bigWig
@@ -89,7 +89,7 @@ color 0,255,255
 viewLimits 0:100
 
 track bigwig_7
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/ae6jadlhs9dtgrk5ovu7u/cOLIG2-E4_SC3-ratio.bw?rlkey=jqgrea5ix36vr83mrycgvet2e&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/cOLIG2-E4_SC3-ratio.bw
 shortLabel OLIG2-E4-spinalcord-3
 longLabel cOLIG2-E4_SC3-ratio.bw
 type bigWig
@@ -104,7 +104,7 @@ color 0,255,255
 viewLimits 0:100
 
 track bigwig_8
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/0bzna2o2ygrodjam5y1o6/cOLIG2-E4_SC4-ratio.bw?rlkey=01gm8x1jllru075v09vo72sty&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/cOLIG2-E4_SC4-ratio.bw
 shortLabel OLIG2-E4-spinalcord-4
 longLabel cOLIG2-E4_SC4-ratio.bw
 type bigWig
@@ -119,7 +119,7 @@ color 0,255,255
 viewLimits 0:100
 
 track bigwig_9
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/3mfl682tt8v2bj2mm55sd/OLIG2_bc101-ratio.bw?rlkey=1y4ivmf6ocb1xyxh6pz8r028z&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/OLIG2_bc101-ratio.bw
 shortLabel OLIG2-E5-retina-1
 longLabel OLIG2_bc101-ratio.bw
 type bigWig
@@ -134,7 +134,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_10
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/r51j2en7x8qrdi9bwmrfh/OLIG2_bc202-ratio.bw?rlkey=93erm3cp8vwhw02r6son21tj5&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/OLIG2_bc202-ratio.bw
 shortLabel OLIG2-E5-retina-2
 longLabel OLIG2_bc202-ratio.bw
 type bigWig
@@ -149,7 +149,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_11
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/50ucyc5xl76i22r0ad2j5/OLIG2_bc303-ratio.bw?rlkey=w18h5xr84ht2c3zmuthgb17w1&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/OLIG2_bc303-ratio.bw
 shortLabel OLIG2-E5-retina-3
 longLabel OLIG2_bc303-ratio.bw
 type bigWig
@@ -164,7 +164,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_12
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/pbobb7dpuojok4u6fmea7/OLIG2_bc404-ratio.bw?rlkey=d3ctkknuoknq8ikne8ug8zjkm&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/OLIG2_bc404-ratio.bw
 shortLabel OLIG2-E5-retina-4
 longLabel OLIG2_bc404-ratio.bw
 type bigWig
@@ -179,7 +179,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_13
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/n9z67rlcslp5bxh9u0zxj/cOLIG2_LibraryCoverage.bw?rlkey=lkccvlqd9yjfx8581ir6af7dt&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/cOLIG2_LibraryCoverage.bw
 shortLabel OLIG2_LibraryCoverage
 longLabel cOLIG2_LibraryCoverage.bw
 type bigWig

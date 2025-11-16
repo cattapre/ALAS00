@@ -1,5 +1,5 @@
 track bigwig_1
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/jqfnfi6klwd9dvr4w6mem/Cabp5-ExVivoA-ratio.bw?rlkey=yfqwkc9pr3zsbyg3glpsf845x&st=p5z0qijq&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Cabp5-ExVivoA-ratio.bw
 shortLabel Cabp5-ExV-A
 longLabel Cabp5-ExVivoA-ratio.bw
 type bigWig
@@ -14,7 +14,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_2
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/d659rjwv8h3dr2vgz3z2s/Cabp5-ExVivoB-ratio.bw?rlkey=dk04ncv1jd0syxu79d3w5mpbc&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Cabp5-ExVivoB-ratio.bw
 shortLabel Cabp5-ExV-B
 longLabel Cabp5-ExVivoB-ratio.bw
 type bigWig
@@ -29,7 +29,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_3
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/wjjaktunfi4yfujkogm05/Cabp5-ExVivoC-ratio.bw?rlkey=z6o69dsvrit65iks9ak7hjhzb&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Cabp5-ExVivoC-ratio.bw
 shortLabel Cabp5-ExV-C
 longLabel Cabp5-ExVivoC-ratio.bw
 type bigWig
@@ -44,7 +44,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_4
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/rft7cw9ksssxg2f45ay35/Cabp5-InVivo1-ratio.bw?rlkey=qszyb64cwp2zp7ute0fx8y53v&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Cabp5-InVivo1-ratio.bw
 shortLabel Cabp5-InV-1
 longLabel Cabp5-InVivo1-ratio.bw
 type bigWig
@@ -59,7 +59,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_5
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/ykhimmxdvt866h9geu8xp/Cabp5-InVivo2-ratio.bw?rlkey=dm5tyuis4hyvp9zh58rljhzwb&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Cabp5-InVivo2-ratio.bw
 shortLabel Cabp5-InV-2
 longLabel Cabp5-InVivo2-ratio.bw
 type bigWig
@@ -74,7 +74,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_6
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/1cm1nwzasco3in1muxd49/Cabp5-InVivo3-ratio.bw?rlkey=hmz8bjjf565w22f6m08uu1qll&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Cabp5-InVivo3-ratio.bw
 shortLabel Cabp5-InV-3
 longLabel Cabp5-InVivo3-ratio.bw
 type bigWig
@@ -89,7 +89,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_7
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/zjb0tm0v6zdvygtsnxkoa/Cabp5_LibraryCoverage.bw?rlkey=r90hlxhbeur6linelvzk0y3ls&st=k2ep6n93&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Cabp5_LibraryCoverage.bw
 shortLabel Cabp5_LibraryCoverage
 longLabel Cabp5_LibraryCoverage.bw
 type bigWig
@@ -104,7 +104,7 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_8
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/h0eg1ncymjujf7r0oph75/Grm6-ExVivoA-ratio.bw?rlkey=8ixut4md8yqssv0s2aso1igjw&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Grm6-ExVivoA-ratio.bw
 shortLabel Grm6-ExV-A
 longLabel Grm6-ExVivoA-ratio.bw
 type bigWig
@@ -119,7 +119,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_9
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/4x26v24r29jdshzgkdl3q/Grm6-ExVivoB-ratio.bw?rlkey=o3oajj19wadxfac5zs00njbkm&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Grm6-ExVivoB-ratio.bw
 shortLabel Grm6-ExV-B
 longLabel Grm6-ExVivoB-ratio.bw
 type bigWig
@@ -134,7 +134,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_10
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/3k9thip31773odejphynt/Grm6-ExVivoC-ratio.bw?rlkey=yfdvcvfcwhvp7v3k3mw4v6okk&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Grm6-ExVivoC-ratio.bw
 shortLabel Grm6-ExV-C
 longLabel Grm6-ExVivoC-ratio.bw
 type bigWig
@@ -149,7 +149,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_11
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/dn8emkrbjm7d1qp74790k/Grm6-InVivo1-ratio.bw?rlkey=2cnyh8ol6dar5l0nykiwvtlxt&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Grm6-InVivo1-ratio.bw
 shortLabel Grm6-InV-1
 longLabel Grm6-InVivo1-ratio.bw
 type bigWig
@@ -164,7 +164,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_12
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/qezppci6c59i18fn1woba/Grm6-InVivo2-ratio.bw?rlkey=a8a7iz0i2mm21yy0ig6da960h&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Grm6-InVivo2-ratio.bw
 shortLabel Grm6-InV-2
 longLabel Grm6-InVivo2-ratio.bw
 type bigWig
@@ -179,7 +179,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_13
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/ew1pkvpc53wbcbf3afeup/Grm6-InVivo3-ratio.bw?rlkey=22jl50h6yy7ns52a3nsih6wr4&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Grm6-InVivo3-ratio.bw
 shortLabel Grm6-InV-3
 longLabel Grm6-InVivo3-ratio.bw
 type bigWig
@@ -194,7 +194,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_14
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/k9wpdebon8k328gviokb9/Grm6_LibraryCoverage.bw?rlkey=42yu4v36ix3zx4t2qlrb8qud5&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Grm6_LibraryCoverage.bw
 shortLabel Grm6_LibraryCoverage
 longLabel Grm6_LibraryCoverage.bw
 type bigWig
@@ -209,7 +209,7 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_15
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/iwt4ekhhkhbccs6poky1e/Rho-ExVivoA-ratio.bw?rlkey=1tr0k5a89dgiin0nino96w2wu&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Rho-ExVivoA-ratio.bw
 shortLabel Rho-ExV-A
 longLabel Rho-ExVivoA-ratio.bw
 type bigWig
@@ -224,7 +224,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_16
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/eww7432un5zr5y63rzgrd/Rho-ExVivoB-ratio.bw?rlkey=6c5cbjouafbbta7bdk9nvs3ma&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Rho-ExVivoB-ratio.bw
 shortLabel Rho-ExV-B
 longLabel Rho-ExVivoB-ratio.bw
 type bigWig
@@ -239,7 +239,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_17
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/wv5kgbjnd4uuemjzh85nu/Rho-ExVivoC-ratio.bw?rlkey=x5aji9po6mr9ivleui0u5qzo7&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Rho-ExVivoC-ratio.bw
 shortLabel Rho-ExV-C
 longLabel Rho-ExVivoC-ratio.bw
 type bigWig
@@ -254,7 +254,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_18
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/uftp2ckt7z6k2trvophfp/Rho-InVivo1-ratio.bw?rlkey=f8yyonetedzm3mzgomsnpgw8q&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Rho-InVivo1-ratio.bw
 shortLabel Rho-InV-1
 longLabel Rho-InVivo1-ratio.bw
 type bigWig
@@ -269,7 +269,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_19
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/naxz89no3agjoohrqw57c/Rho-InVivo2-ratio.bw?rlkey=m61udrw6h9p50wtw4ry5tpum9&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Rho-InVivo2-ratio.bw
 shortLabel Rho-InV-2
 longLabel Rho-InVivo2-ratio.bw
 type bigWig
@@ -284,7 +284,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_20
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/jghqzrkxprnfvgpzmtfco/Rho-InVivo3-ratio.bw?rlkey=zkkygqh246xi6dxfjcfao2puq&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Rho-InVivo3-ratio.bw
 shortLabel Rho-InV-3
 longLabel Rho-InVivo3-ratio.bw
 type bigWig
@@ -299,7 +299,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_21
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/rbrluzos6xt1z7cz4v60r/Rho_LibraryCoverage.bw?rlkey=8qslubar9k3nvx9rs6ykj6qge&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Rho_LibraryCoverage.bw
 shortLabel Rho_LibraryCoverage
 longLabel Rho_LibraryCoverage.bw
 type bigWig
@@ -314,7 +314,7 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_22
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/z53izhcadigcfyye2ztyk/Vsx2-ExVivoA-ratio.bw?rlkey=v2cin93zkj02gg1uipndikp6r&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Vsx2-ExVivoA-ratio.bw
 shortLabel Vsx2-ExV-A
 longLabel Vsx2-ExVivoA-ratio.bw
 type bigWig
@@ -329,7 +329,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_23
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/lrmi1lnqeh00df780k8j0/Vsx2-ExVivoB-ratio.bw?rlkey=wg62dttqs8a4wn84tflmbjyt4&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Vsx2-ExVivoB-ratio.bw
 shortLabel Vsx2-ExV-B
 longLabel Vsx2-ExVivoB-ratio.bw
 type bigWig
@@ -344,7 +344,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_24
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/gkb6sdfohg9v5fpblxcnd/Vsx2-ExVivoC-ratio.bw?rlkey=xgyctryx6kfpnqzy6d7wtu92w&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Vsx2-ExVivoC-ratio.bw
 shortLabel Vsx2-ExV-C
 longLabel Vsx2-ExVivoC-ratio.bw
 type bigWig
@@ -359,7 +359,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_25
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/kh9um1l4akfo4mh6l2wvt/Vsx2-InVivo1-ratio.bw?rlkey=dbkhea1lxq8cjbcy9mg3g9fz7&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Vsx2-InVivo1-ratio.bw
 shortLabel Vsx2-InV-1
 longLabel Vsx2-InVivo1-ratio.bw
 type bigWig
@@ -374,7 +374,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_26
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/r5ukgb8b1sv02lftr08jn/Vsx2-InVivo2-ratio.bw?rlkey=qq8ob69rp15x6ktpl7tpcskwp&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Vsx2-InVivo2-ratio.bw
 shortLabel Vsx2-InV-2
 longLabel Vsx2-InVivo2-ratio.bw
 type bigWig
@@ -389,7 +389,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_27
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/e8oyw2h8zrd1nvqaac3af/Vsx2-InVivo3-ratio.bw?rlkey=xvk89oc6y6jxwzfkytufwzq0l&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Vsx2-InVivo3-ratio.bw
 shortLabel Vsx2-InV-3
 longLabel Vsx2-InVivo3-ratio.bw
 type bigWig
@@ -404,7 +404,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_28
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/hkuzka9x76kmc24fkom04/Vsx2_LibraryCoverage.bw?rlkey=xwe0k8b0nhf2idqprvvvrs4aw&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Vsx2_LibraryCoverage.bw
 shortLabel Vsx2_LibraryCoverage
 longLabel Vsx2_LibraryCoverage.bw
 type bigWig
@@ -419,7 +419,7 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_29
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/7433c66r1zlngx39luzfm/Olig2_0hrA-ratio.bw?rlkey=p6090dmeyi3t19v911fvtzjgw&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_0hrA-ratio.bw
 shortLabel Olig2-Control-A
 longLabel Olig2_0hrA-ratio.bw
 type bigWig
@@ -434,7 +434,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_30
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/4w7kigrbl3l32noi2jz3k/Olig2_0hrB-ratio.bw?rlkey=r0nuttuaz44uqcurt1flth35w&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_0hrB-ratio.bw
 shortLabel Olig2-Control-B
 longLabel Olig2_0hrB-ratio.bw
 type bigWig
@@ -449,7 +449,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_31
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/tyw4dhea4a0w6q1yv96hr/Olig2_0hrC-ratio.bw?rlkey=16omo2amx7jfqekjrbt4d07ts&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_0hrC-ratio.bw
 shortLabel Olig2-Control-C
 longLabel Olig2_0hrC-ratio.bw
 type bigWig
@@ -464,7 +464,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_32
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/xhtweyh944wwdqe89joa1/Olig2_4hrA-ratio.bw?rlkey=8zsq2b740p4dfcs8ws4w5frio&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_4hrA-ratio.bw
 shortLabel Olig2-4hr-perturb-A
 longLabel Olig2_4hrA-ratio.bw
 type bigWig
@@ -479,7 +479,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_33
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/7pw3m31zrrfe3r5jlt60s/Olig2_4hrB-ratio.bw?rlkey=woyrl4swwx2nwl5qk0j2q09b6&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_4hrB-ratio.bw
 shortLabel Olig2-4hr-perturb-B
 longLabel Olig2_4hrB-ratio.bw
 type bigWig
@@ -494,7 +494,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_34
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/7iz33m7q5nnm7wm63lk8m/Olig2_4hrC-ratio.bw?rlkey=7mwedwxws9w6k1ow44ytpkm91&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_4hrC-ratio.bw
 shortLabel Olig2-4hr-perturb-C
 longLabel Olig2_4hrC-ratio.bw
 type bigWig
@@ -509,7 +509,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_35
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/gz23wvmsnppg5hcb2wfpu/Olig2_12hrA-ratio.bw?rlkey=q7tosion1eq5c5dmwk8yc5zf4&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_12hrA-ratio.bw
 shortLabel Olig2-12hr-perturb-A
 longLabel Olig2_12hrA-ratio.bw
 type bigWig
@@ -524,7 +524,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_36
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/kqsmatwxjzuhuslm7fta7/Olig2_12hrB-ratio.bw?rlkey=s7izjl7megikf74vtjdkbnw3w&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_12hrB-ratio.bw
 shortLabel Olig2-12hr-perturb-B
 longLabel Olig2_12hrB-ratio.bw
 type bigWig
@@ -539,7 +539,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_37
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/4riuuewun96gh7nyx2rnq/Olig2_12hrC-ratio.bw?rlkey=tn4s3vxkadi4dvmk9yofq424n&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_12hrC-ratio.bw
 shortLabel Olig2-12hr-perturb-C
 longLabel Olig2_12hrC-ratio.bw
 type bigWig
@@ -554,7 +554,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_38
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/waz4yd5alnt916j8xbwth/Olig2_28hrA-ratio.bw?rlkey=orhl0a5il0z03u0aro404hs9p&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_28hrA-ratio.bw
 shortLabel Olig2-28hr-perturb-A
 longLabel Olig2_28hrA-ratio.bw
 type bigWig
@@ -569,7 +569,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_39
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/9fn3gci1gf8jtp396evx3/Olig2_28hrB-ratio.bw?rlkey=hflfqatw5blqy6ywy1q1jxxpp&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_28hrB-ratio.bw
 shortLabel Olig2-28hr-perturb-B
 longLabel Olig2_28hrB-ratio.bw
 type bigWig
@@ -584,7 +584,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_40
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/pn2iw90qpcskjdf5eqdxa/Olig2_28hrC-ratio.bw?rlkey=r0mfhzm2y5zvzivp182twvujg&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_28hrC-ratio.bw
 shortLabel Olig2-28hr-perturb-C
 longLabel Olig2_28hrC-ratio.bw
 type bigWig
@@ -599,7 +599,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_41
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/8aomuqgqzxvww3eiee7gd/Olig2_LibraryCoverage.bw?rlkey=9rg8kqoxl7rg28gmvl0dt219l&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Olig2_LibraryCoverage.bw
 shortLabel Olig2_LibraryCoverage
 longLabel Olig2_LibraryCoverage.bw
 type bigWig
@@ -614,7 +614,7 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_42
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/tr3ojzgeq6e80vfeliiwk/Neurog2-bc101-ratio.bw?rlkey=c5ddff0t4mzj636vjr0ix71tk&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Neurog2-bc101-ratio.bw
 shortLabel Ngn2-A
 longLabel Neurog2-bc101-ratio.bw
 type bigWig
@@ -629,7 +629,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_43
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/s8mqo0lwv0qvgt02nigjt/Neurog2-bc202-ratio.bw?rlkey=zjmyw6cvqaocy0gkrxws3da9g&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Neurog2-bc202-ratio.bw
 shortLabel Ngn2-B
 longLabel Neurog2-bc202-ratio.bw
 type bigWig
@@ -644,7 +644,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_44
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/1i541g96vdq2f9tpng1jm/Neurog2-bc303-ratio.bw?rlkey=qcjckk9xayar960x1ma127chu&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Neurog2-bc303-ratio.bw
 shortLabel Ngn2-C
 longLabel Neurog2-bc303-ratio.bw
 type bigWig
@@ -659,7 +659,7 @@ color 0,0,0
 viewLimits 0:100
 
 track bigwig_45
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/5w89lw0w99oam60x4u1j1/Ngn2_LibraryCoverage.bw?rlkey=15nk9xz4kqob8wo0lx494a1a1&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/Ngn2_LibraryCoverage.bw
 shortLabel Ngn2_LibraryCoverage
 longLabel Ngn2_LibraryCoverage.bw
 type bigWig
@@ -674,7 +674,7 @@ color 128,0,0
 viewLimits 0:100
 
 track bigwig_46
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/s6voh2u0xtqlebs9nzid9/mE14_scATAC_retina.normalized.primary.coverage.bw?rlkey=fy1nqq7sphacrof02acbcb1id&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/mE14_scATAC_retina.normalized.primary.coverage.bw
 shortLabel E14_scATACseq-retina
 longLabel mE14_scATAC_retina.normalized.primary.coverage.bw
 type bigWig
@@ -689,7 +689,7 @@ color 128,0,128
 viewLimits 0:100
 
 track bigwig_47
-bigDataUrl https://dl.dropboxusercontent.com/scl/fi/ulngwaf49dt11boc1bqtw/mP8_scATAC_retina.normalized.primary.coverage.bw?rlkey=ovof40dt5pxvui0azb5ngbq2r&dl=0
+bigDataUrl https://github.com/cattapre/ALAS00/releases/download/v1.0/mP8_scATAC_retina.normalized.primary.coverage.bw
 shortLabel P8_scATACseq-retina
 longLabel mP8_scATAC_retina.normalized.primary.coverage.bw
 type bigWig
